@@ -1,6 +1,10 @@
-![Logo]()
+<p align="center">
+  <img src="icarlogo.png" width="140"/>
+</p>
 
-# 🐧 Linux for Bioinformatics 🧬
+<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics 🥔🧬</h1>
+
+# 🐧 1. Linux for Bioinformatics 🧬
 
 A practical Linux course designed for students, researchers, and beginners in bioinformatics. 
 
