@@ -1,9 +1,16 @@
 # 🐧 Linux for Bioinformatics 🧬
 
-A practical Linux course designed for students, researchers, and beginners in bioinformatics.
+A practical Linux course designed for students, researchers, and beginners in bioinformatics. 
+
+👤 **Hemant Kardile**  
+Scientist, Agriculture Biotechnology  
+Division of Crop Improvement and Seed Technology  
+ICAR-Central Potato Research Institute, Shimla, HP, India
 
 ---
 
+
+ 
 ## 🚀 What You Will Learn
 
 - 🧭 Basic Navigation Commands  
@@ -19,7 +26,7 @@ A practical Linux course designed for students, researchers, and beginners in bi
 
 ## 📚 Course Modules
 
-### 🧭 Module 1: Basic Navigation Commands 
+### 🧭 [Module 1: Basic Navigation Commands] (Module1:Basic Navigation Command.md) 
 Learn navigation commands like `pwd`, `ls`, `cd`
 
 ### 📁 Module 2: File Handling
