@@ -1,4 +1,4 @@
-# Linux for Bioinformatics 🧬
+# Linux for Potato Bioinformatics 🧬
 
 A practical Linux course designed for students and researchers.
 
