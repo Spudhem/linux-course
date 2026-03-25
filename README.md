@@ -1,3 +1,5 @@
+![Logo]()
+
 # 🐧 Linux for Bioinformatics 🧬
 
 A practical Linux course designed for students, researchers, and beginners in bioinformatics. 
