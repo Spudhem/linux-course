@@ -1,20 +1,74 @@
-# Linux for Potato Bioinformatics 🧬
+# 🐧 Linux for Bioinformatics 🧬
 
-A practical Linux course designed for students and researchers.
+A practical Linux course designed for students, researchers, and beginners in bioinformatics.
 
-## 📚 Modules
+---
 
-1. Basics  
-2. File Handling  
-3. Text Processing  
-4. Permissions  
-5. Package Management  
-6. Bioinformatics  
-7. SLURM  
-8. Automation  
+## 🚀 What You Will Learn
 
-## 🚀 Getting Started
+- 🧭 Basic Navigation Commands  
+- 📁 File Handling  
+- 🔍 Text Processing  
+- 🔐 Permissions  
+- 📦 Package Management  
+- 🧬 Bioinformatics Tools  
+- ⚡ Resource Management 
+  
+
+---
+
+## 📚 Course Modules
+
+### 🧭 Module 1: Basic Navigation Commands 
+Learn navigation commands like `pwd`, `ls`, `cd`
+
+### 📁 Module 2: File Handling
+Work with files using `cp`, `mv`, `rm`
+
+### 🔍 Module 3: Text Processing
+Use powerful tools like `grep`, `awk`, `sed`
+
+### 🔐 Module 4: Permissions
+Understand file permissions using `chmod`
+
+### 📦 Module 5: Package Management
+Install tools using `conda` and `pip`
+
+### 🧬 Module 6: Bioinformatics
+Work with FASTA files and tools like `samtools`, `bwa`
+
+### ⚡ Module 7: Resource Management
+Submit and manage jobs on HPC clusters
+
+
+---
+
+## 🧪 How to Use This Course
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/linux-course.git
 cd linux-course
+```
+
+Start from **Module 1** and follow sequentially.
+
+---
+
+## 🎯 Who Is This For?
+
+- 🎓 Students  
+- 🔬 Researchers  
+- 🧬 Bioinformatics beginners  
+- 💻 Anyone learning Linux  
+
+---
+
+## ⭐ Support
+
+If you find this useful, please ⭐ the repository.
+
+---
+
+## 📬 Contact
+
+Feel free to connect and contribute!
