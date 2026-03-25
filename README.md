@@ -2,7 +2,7 @@
   <img src="icarlogo.png" width="140"/>
 </p>
 
-<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics 🥔🧬</h1>
+<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics </h1>
 
 # 🐧 1. Linux for Bioinformatics 🧬
 
