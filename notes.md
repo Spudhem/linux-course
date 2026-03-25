@@ -1,9 +1,8 @@
-# Module 2: File Handling
+# Module 3: Text Processing
 
-cp - copy files  
-mv - move files  
-rm - remove files  
+grep "text" file.txt  
+awk '{print $1}' file.txt  
+sed 's/a/b/g' file.txt  
 
 ## Practice
-cp file1 file2
-mv file2 dir/
+grep "gene" data.txt
