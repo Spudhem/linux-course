@@ -63,7 +63,7 @@ Submit and manage jobs on HPC clusters
 ##  How to Use This Course
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-course.git
+git clone https://github.com/Spudhem/linux-course.git
 cd linux-course
 ```
 
@@ -82,7 +82,7 @@ Start from **Module 1** and follow sequentially.
 
 ## Support
 
-If you find this useful, please ⭐ the repository.
+If you find this useful, please the repository.
 
 ---
 
