@@ -2,16 +2,20 @@
   <img src="icarlogo.png" width="140"/>
 </p>
 
-<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics </h1>
+<h1 align="center">CPRI e-Lesson Series on Potato Bioinformatics</h1>
+
+<p align="center">
+  <b>Hemant B Kardile (PhD)</b><br>
+  <i>ICAR-CPRI, Shimla</i>
+</p>
+
+---
+
 
 # 1. Linux for Bioinformatics 
 
 A practical Linux course designed for students, researchers, and beginners in bioinformatics. 
 
-👤 **Hemant Kardile**  
-Scientist, Agriculture Biotechnology  
-Division of Crop Improvement and Seed Technology  
-ICAR-Central Potato Research Institute, Shimla, HP, India
 
 ---
 
