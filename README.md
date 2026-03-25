@@ -29,22 +29,22 @@ ICAR-Central Potato Research Institute, Shimla, HP, India
 ### 🧭 [Module 1: Basic Navigation Commands](Module1.md) 
 Learn navigation commands like `pwd`, `ls`, `cd`
 
-### 📁 Module 2: File Handling
+### 📁 [Module 2: File Handling](Module2.md)
 Work with files using `cp`, `mv`, `rm`
 
-### 🔍 Module 3: Text Processing
+### 🔍 [Module 3: Text Processing](Module3.md)
 Use powerful tools like `grep`, `awk`, `sed`
 
-### 🔐 Module 4: Permissions
+### 🔐 [Module 4: Permissions](Module4.md)
 Understand file permissions using `chmod`
 
-### 📦 Module 5: Package Management
+### 📦 [Module 5: Package Management](Module5.md)
 Install tools using `conda` and `pip`
 
-### 🧬 Module 6: Bioinformatics
+### 🧬 [Module 6: Bioinformatics Tools](Module6.md)
 Work with FASTA files and tools like `samtools`, `bwa`
 
-### ⚡ Module 7: Resource Management
+### ⚡ [Module 7: Resource Management](Module7.md)
 Submit and manage jobs on HPC clusters
 
 
