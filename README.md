@@ -26,7 +26,7 @@ ICAR-Central Potato Research Institute, Shimla, HP, India
 
 ## 📚 Course Modules
 
-### 🧭 [Module 1: Basic Navigation Commands](Module1:Basic_Navigation_Command.md) 
+### 🧭 [Module 1: Basic Navigation Commands](Module1.md) 
 Learn navigation commands like `pwd`, `ls`, `cd`
 
 ### 📁 Module 2: File Handling
